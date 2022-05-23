@@ -3,7 +3,8 @@
   width: auto;
   height: auto;
  display: block;
- padding: 100px
+ padding: 200px;
+ border-style: solid; border-radius: 10px; border-color: black;
 }
 
 .row {
@@ -13,6 +14,27 @@
 .container-fluid {
   height: auto;
 }
+
+.indexheader {
+  background-color: green; color: white; font-size: 44px;
+border-style: solid; border-radius: 30px; border-color: red; padding: 5px;
+}
+
 .paraindex {
-  text-align: center;
+  background-color: silver; color: black; font-size: 22px;
+border-style: solid; border-color: yellow; padding: 10px; text-align: center;
+}
+
+.paraindex2 {
+  background-color: white; color: green; font-size: 22px;
+border-style: solid; border-color: black; text-align: center; padding: 10px;
+}
+
+.Creator-Tag {
+  background-color: white; color: Black; font-size: 22px;
+  border-style: solid; border-color: green; text-align: center;
+}
+
+.indexcarousel {
+  border-style: solid; border-radius: 20px; border-color: white; padding: 10px;
 }
