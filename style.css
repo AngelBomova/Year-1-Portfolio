@@ -1,3 +1,18 @@
-body{
+.Logo1 {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+ display: block;
+ padding: 100px
+}
+
+.row {
+  height: 1460px
+}
+
+.container-fluid {
+  height: auto;
+}
+.paraindex {
   text-align: center;
 }
