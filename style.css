@@ -57,6 +57,18 @@ border-style: solid; border-color: black; text-align: center; padding: 10px;
 }
 
 .AMtitle {
-   background-color: rgba(150, 185, 190); color: white; font-size: 44px;
+   background-color: rgba(150, 185, 190); color: white; font-size: 55px;
  border-style: solid; border-radius: 30px; border-color: rgba(137, 170, 173); padding: 5px;
+}
+
+.AMtext {
+  text-align: center;
+  background-color: rgba(150, 185, 190); color: white; font-size: 33px;
+  border-style: solid; border-color: rgba(117, 150, 160); padding: 10px;
+}
+
+.AMheader {
+  text-align: center;
+  background-color: rgba(160, 195, 200); color: white; font-size: 44px;
+border-style: solid; border-radius: 20px; border-color: rgba(137, 170, 173); padding: 5px;
 }
