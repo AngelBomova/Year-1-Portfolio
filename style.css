@@ -91,3 +91,21 @@ border-style: solid; border-radius: 20px; border-color: rgba(137, 170, 173); pad
   width: 300px;
     height: 900px;
 }
+
+.Rheader {
+  text-align: center;
+  background-color: rgba(160, 195, 200); color: black; font-size: 44px;
+border-style: solid; border-radius: 20px; border-color: rgba(137, 170, 173); padding: 5px;
+}
+
+.Rpara {
+  text-align: center;
+   color: black; font-size: 22px;
+border-style: solid; border-radius: 20px; padding: 5px; background-color: rgba(137, 170, 173)
+}
+
+.Rlist {
+  text-align: center;
+  color: black; font-size: 22px;
+border-style: solid; border-radius: 20px; padding: 5px; background-color: black
+}
